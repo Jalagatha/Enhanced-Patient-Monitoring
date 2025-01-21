@@ -40,8 +40,7 @@ MATLAB R2020a
 MATLAB App Designer
 
 ### Authors
-* Christopher Stapels - Initial work - MathWorks
-* Alain Kutcha - Code review - MathWorks
+
 
 ### Resources
 * [ThingSpeak for IoT Projects](https://thingspeak.com)
